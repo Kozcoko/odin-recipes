@@ -1,0 +1,37 @@
+body {
+    background-color: black;
+    text-align: center;
+}
+
+p,
+ul,
+ol {
+    color: blue;
+}
+
+.Exit {
+    color: blueviolet;
+}
+
+.Ritual {
+    color: red;
+    font-weight: bold;
+}
+
+h1 {
+    color: red;
+    background-color: rgb(70, 0, 0);
+}
+
+.bigred {
+    color: red;
+    background-color: black;
+}
+
+h2,
+h3,
+h4,
+h5 {
+    color: red;
+    background-color: black;
+}
