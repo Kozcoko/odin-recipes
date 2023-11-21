@@ -1,6 +1,7 @@
 body {
     background-color: black;
     text-align: center;
+    font-family: "Courier New", "Times New Roman", Georgia, Arial, serif;
 }
 
 p,
@@ -35,3 +36,4 @@ h5 {
     color: red;
     background-color: black;
 }
+
